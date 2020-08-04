@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  TGA.cpp
+  MemoryOperators.cpp
+  MemoryManager.cpp
+  Math.cpp
+e:\gameloft\dinhduc_framework3d\utilities\math.cpp(10): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+e:\gameloft\dinhduc_framework3d\utilities\math.cpp(104): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+e:\gameloft\dinhduc_framework3d\utilities\math.cpp(208): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+  esUtil_win.cpp
+  esUtil.cpp
+  esShader.cpp
+  Generating Code...
+  Utilities.vcxproj -> E:\Gameloft\DinhDuc_Framework3D\Debug\Utilities.lib
